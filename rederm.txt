@@ -1,2 +1,3 @@
 this is Frist git
 this is sec bu
+git diff minglingtis
